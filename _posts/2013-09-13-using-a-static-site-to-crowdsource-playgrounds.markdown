@@ -2,7 +2,7 @@
 layout: post
 title: "Complex But Not Dynamic: Using A Static Site To Crowdsource Playgrounds"
 description: "You can build and deploy complex sites without running servers. Here's how."
-author: Jeremy Bowers
+author: Jean Abbiateci
 email: jbowers@npr.org
 twitter: jeremybowers
 ---
